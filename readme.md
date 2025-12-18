@@ -15,7 +15,7 @@ open the "index.html" file on browser
 
 Live Demo
 
-https://your-username.github.io/platione-resume-ui/
+https://github.com/Yogsjadhav/Resume.git
 
 Screenshots
 
